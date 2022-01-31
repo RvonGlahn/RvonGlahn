@@ -4,8 +4,7 @@
 - Interested in AutoML
 - Projects: Machine Learning, Web Development, Game Agents
 
-<!--
-**RvonGlahn/RvonGlahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
+### Languages
+- Python (ray, Pytorch, flask)
+- C++ (CMake, C++20)
+- JS (React, Node.js, express)
