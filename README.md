@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - I’m currently working on C++ Battlesnake Agent
-- Interested in AutoML
-- Projects: Machine Learning, Web Development, Game Agents
+- Projects: Machine Learning, Web Development and Game Agents
 
 ### Languages
-- Python (ray, Pytorch, flask)
+- Python (Ray, Pytorch, Flask)
 - C++ (CMake, C++20)
-- JS (React, Node.js, express)
+- JS (React, Node.js, Express)
