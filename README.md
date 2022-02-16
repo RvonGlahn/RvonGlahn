@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I’m currently working on C++ Battlesnake Agent
-- Projects: Machine Learning, Web Development and Game Agents
+- I’m currently working on a C++ Battlesnake Agent
+- Projects: Machine Learning, Web Development and AWS
 
 ### Languages
 - Python (Ray, Pytorch, Flask)
