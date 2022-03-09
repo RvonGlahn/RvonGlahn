@@ -5,5 +5,5 @@
 
 ### Languages
 - Python (Ray, Pytorch, Flask)
-- C++ (CMake, C++20)
+- C++ (CMake, >=C++17)
 - JS (React, Node.js, Express)
